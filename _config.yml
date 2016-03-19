@@ -1,0 +1,28 @@
+name: Air-Trade Global
+favicon: null
+layout_spectrum: 0.8914379661437124
+typography_spectrum: 0.6683046750258654
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7743597228545696
+  lightness: 0.7689498099498451
+  saturation: 0.13194382819347084
+  rhythmicContrast: 0.13931454927660525
+purpose: []
